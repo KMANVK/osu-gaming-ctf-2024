@@ -14,6 +14,12 @@
 
 ## Sol : Chúng ta được cung cấp một kho lưu trữ bộ nhớ để điều tra. Vì vậy, bằng cách sử dụng vol3 với plugin pslist, tôi đã tìm được chương trình osu!.exe chạy các phiên bản notepad.exe. 
 
+![image](https://github.com/KMANVK/osu-gaming-ctf-2024/assets/94669750/99dc18fa-b792-4b0b-bda2-9066f4101cfa)
+
+![image](https://github.com/KMANVK/osu-gaming-ctf-2024/assets/94669750/77f1be82-286e-48b8-aa70-2023f979a6ab)
+
+
+
 # Challenge 3 : out-of-click
 
 ## Des : I love playing this map but recently I noticed that some of the circles seem off. Can you help me find the locations of the weird circles?
@@ -28,11 +34,23 @@
 
 ![image](https://github.com/KMANVK/osu-gaming-ctf-2024/assets/94669750/446798bd-9287-4a68-9580-8ac0c8c2d78c)
 
+![image](https://github.com/KMANVK/osu-gaming-ctf-2024/assets/94669750/5adb5a5f-899a-4d77-a83b-37bd1ecece83)
+
 ![image](https://github.com/KMANVK/osu-gaming-ctf-2024/assets/94669750/e7175de4-f3da-4de0-a097-bcbbb48f6dd4)
 
 ![image](https://github.com/KMANVK/osu-gaming-ctf-2024/assets/94669750/f289e721-608c-41b7-913a-26bb749eaabc)
 
 ![image](https://github.com/KMANVK/osu-gaming-ctf-2024/assets/94669750/5da7050d-7459-4c07-8681-daf1b411ee03)
 
-![image](https://github.com/KMANVK/osu-gaming-ctf-2024/assets/94669750/995fdd22-51d9-40ff-b181-eb7fbdd66fd6)
+
+=> `111, 115, 117, 123, 66, 84, 77, 67, 95, 49, 53, 95, 109, 89, 95, 71, 48, 97, 84, 125`
+
+![image](https://github.com/KMANVK/osu-gaming-ctf-2024/assets/94669750/8dec327a-13f7-4215-9352-5552053253cf)
+
+
++ Check process `note.exe` bằng cmdline :
+
+![image](https://github.com/KMANVK/osu-gaming-ctf-2024/assets/94669750/76e5de30-bcb3-4a22-8855-d92259258d8b)
+
+
 
