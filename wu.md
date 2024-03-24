@@ -18,7 +18,9 @@
 
 ![image](https://github.com/KMANVK/osu-gaming-ctf-2024/assets/94669750/77f1be82-286e-48b8-aa70-2023f979a6ab)
 
++ Check process `note.exe` bằng cmdline :
 
+![image](https://github.com/KMANVK/osu-gaming-ctf-2024/assets/94669750/76e5de30-bcb3-4a22-8855-d92259258d8b)
 
 # Challenge 3 : out-of-click
 
@@ -48,9 +50,7 @@
 ![image](https://github.com/KMANVK/osu-gaming-ctf-2024/assets/94669750/8dec327a-13f7-4215-9352-5552053253cf)
 
 
-+ Check process `note.exe` bằng cmdline :
 
-![image](https://github.com/KMANVK/osu-gaming-ctf-2024/assets/94669750/76e5de30-bcb3-4a22-8855-d92259258d8b)
 
 
 
