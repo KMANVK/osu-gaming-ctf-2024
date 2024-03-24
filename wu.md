@@ -22,6 +22,13 @@
 
 ![image](https://github.com/KMANVK/osu-gaming-ctf-2024/assets/94669750/76e5de30-bcb3-4a22-8855-d92259258d8b)
 
+=> `osu{ - 686964655f6e (sahuang) [X3NlZWVlZWVlZWVla30=]`
+
+![image](https://github.com/KMANVK/osu-gaming-ctf-2024/assets/94669750/d5db4c9b-ae00-4e97-836e-f7a1b85a4934)
+
+![image](https://github.com/KMANVK/osu-gaming-ctf-2024/assets/94669750/ea2df00e-f6a6-4372-9bb5-089029e86873)
+
+## Flag : `osu{hide_n_seeeeeeeeeek}`
 # Challenge 3 : out-of-click
 
 ## Des : I love playing this map but recently I noticed that some of the circles seem off. Can you help me find the locations of the weird circles?
@@ -48,6 +55,8 @@
 => `111, 115, 117, 123, 66, 84, 77, 67, 95, 49, 53, 95, 109, 89, 95, 71, 48, 97, 84, 125`
 
 ![image](https://github.com/KMANVK/osu-gaming-ctf-2024/assets/94669750/8dec327a-13f7-4215-9352-5552053253cf)
+
+## Flag : `osu{BTMC_15_mY_G0aT}`
 
 
 
